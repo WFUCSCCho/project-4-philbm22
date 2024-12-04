@@ -81,10 +81,13 @@ each case. Take a screenshot of your graph and put them here by modifying this f
 it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
+<img width="402" alt="Sorted" src="https://github.com/user-attachments/assets/11686190-bd5c-40c8-9a92-4996ea5e3c51">
 
 Insertion, search, and deletion running time (shuffled):
+<img width="402" alt="Shuffled" src="https://github.com/user-attachments/assets/d1ca47d3-bbb6-4961-afce-7bc1e3d5a990">
 
 Insertion, search, and deletion running time (reversed):
+<img width="400" alt="Reversed" src="https://github.com/user-attachments/assets/b973e8b3-d171-40cb-89a9-aff7a2ec148c">
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
