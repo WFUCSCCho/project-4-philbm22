@@ -81,23 +81,24 @@ each case. Take a screenshot of your graph and put them here by modifying this f
 it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
-
-![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
-
+<img width="402" alt="Sorted" src="https://github.com/user-attachments/assets/11686190-bd5c-40c8-9a92-4996ea5e3c51">
 
 Insertion, search, and deletion running time (shuffled):
+<img width="402" alt="Shuffled" src="https://github.com/user-attachments/assets/d1ca47d3-bbb6-4961-afce-7bc1e3d5a990">
 
 Insertion, search, and deletion running time (reversed):
+<img width="400" alt="Reversed" src="https://github.com/user-attachments/assets/b973e8b3-d171-40cb-89a9-aff7a2ec148c">
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
-Dataset Source: // FINISH ME
+Dataset Source: Data obtained from kaggle.com, titled "List of mountains in the world". Data retrieved in September 2024.
 
-Dataset Modifications ("None" if unchanged): // FINISH ME
+Dataset Modifications ("None" if unchanged): Added commas into a number of entries that were missing them in key areas
 
-Result Analysis: // FINISH ME
+Result Analysis: For the most part the graphs seem to reflect O(n) runtime when insertion, search and deletion
+should be O(1). I believe that this is the case as O(n) is the worst case runtime for all 3 of these operations. 
 
 ## Submission:
 
